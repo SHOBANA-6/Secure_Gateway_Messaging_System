@@ -1,4 +1,7 @@
 # 🔐 Secure Gateway Messaging System
+<p align="center">
+  <img src="C:\Users\shoba\Downloads\admin.jpeg" alt="Project Preview" width="800">
+</p>
 
 A secure web-based messaging system developed using Java, JSP, Servlets, JDBC, and MySQL. The application enables secure communication between administrators and officers through role-based authentication, encrypted passwords, and controlled message delivery.
 
